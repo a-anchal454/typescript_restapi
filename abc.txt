@@ -1,0 +1,4 @@
+
+npm init -y
+npm install -D typescript ts-node nodemon @types/node
+npx tsc --init
